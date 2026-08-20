@@ -210,14 +210,10 @@ GPU acceleration is recommended for BERT fine-tuning.
 ```text
 .
 ├── Finetune_BERT.ipynb
-├── Midterm Project 2.pptx
 ├── README.md
-└── data/
 ```
 
 - `Finetune_BERT.ipynb` — dataset processing, BERT fine-tuning, and evaluation
-- `Midterm Project 2.pptx` — project methodology, experiments, and results
-- `data/` — generated Amazon review subsets
 
 > **Note:** The original Amazon Reviews dataset and generated CSV subsets are large and are not intended to be committed to the repository.
 
